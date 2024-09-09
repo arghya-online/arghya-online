@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arghya-online
-- 👀 I’m interested in basic programing 
-- 🌱 I’m currently learn javascript.
-- 🌱 I have knowledge of C and C++ language.
+- 🌱 I’m currently learning javascript.
+- 🌱 I know C and C++ language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
