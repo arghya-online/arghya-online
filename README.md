@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arghya-online
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning python.
 - 🌱 I know C and C++ language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
