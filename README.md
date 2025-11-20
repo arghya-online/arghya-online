@@ -1,110 +1,120 @@
 <div align="center">
 
-<!-- Retro Header -->
+# 👋 Hey, I'm Arghya
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3DF7F7F7%26width%3D435%26lines%3DINITIALIZING%2BINTERFACE...%3BUSER:%2BARGHYA%3BROLE:%2BFRONTEND%2BENGINEER%3BSTATUS:%2BONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+India;Building+Interactive+Web+Experiences;React+%7C+JavaScript+%7C+CSS+Enthusiast" alt="Typing SVG" />
 
-<!-- Bio Terminal -->
-
-<div align="left">
-<pre>
-<code><span style="color: #50fa7b">arghya@dev</span>:<span style="color: #8be9fd">~</span>$ cat profile.json
-{
-"identity": "Arghya",
-"role": "Frontend Developer",
-"focus": [
-"Interactive UIs",
-"Frontend Engineering",
-"3D Simulations"
-],
-"aesthetic": "Minimalist & Functional"
-}</code>
-</pre>
 </div>
 
-<!-- Tech Stack / Inventory -->
+## 🚀 About Me
 
-<h3>// INVENTORY_AND_TOOLS</h3>
-<pre>
-[LANGUAGES]   ::  JavaScript  |  C++  |  HTML5  |  CSS3
-[FRAMEWORKS]  ::  React  |  Node.js  |  Tailwind CSS
-</pre>
+I'm a **Frontend Developer** based in India, passionate about crafting beautiful and functional web experiences. I specialize in building interactive UIs and bringing creative ideas to life through code.
 
-<!-- Projects Section -->
+- 🔭 Currently working on **Frontend Development** projects
+- 🌱 Learning **Backend Development** to become a full-stack developer
+- 💼 Featured project: [**Hexus Capital**](https://github.com/arghya-online/Hexus-Capital) - Official website for Hexus Capital.co
+- 🎨 Love creating **minimalist & functional** designs
+- 📫 Reach me: [@ArghyaOnline1](https://twitter.com/ArghyaOnline1)
 
-<h3>// SELECTED_WORKS</h3>
+## 🛠️ Tech Stack
 
-<table width="100%">
+```javascript
+const arghya = {
+    languages: ["JavaScript", "HTML5", "CSS3", "C++"],
+    frameworks: ["React.js", "Node.js", "Tailwind CSS"],
+    tools: ["Git", "VS Code", "Vercel", "Appwrite"],
+    focus: ["Interactive UIs", "Frontend Engineering", "Web Development"]
+};
+```
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</div>
+
+## 🎯 Featured Projects
+
+<table>
 <tr>
 <td width="50%">
-<b>01. YOUR VAULT PASS</b>
 
+### 🏢 [Hexus Capital](https://github.com/arghya-online/Hexus-Capital)
+Official website for Hexus Capital.co
+- Modern, professional design
+- Responsive layout
+- ⭐ 1 star
 
-
-
-
-
-
-<code>> A secure, private password generator.</code>
-
-
-
-
-
-<code>> No tech skills needed. Instant & random.</code>
-
-
-
-
-
-
-
-<a href="https://yourvaultpass.vercel.app/">[ EXECUTE_LINK ]</a>
 </td>
 <td width="50%">
-<b>02. GARI CHALAO</b>
 
+### 📝 [BlogWrite](https://github.com/arghya-online/BlogWrite)
+Blogging platform with Appwrite & React
+- Full-featured blog system
+- User authentication
+- Rich text editor
 
+</td>
+</tr>
+<tr>
+<td width="50%">
 
+### 🔐 [YourVaultPass](https://github.com/arghya-online/YourVaultPass)
+Secure password generator
+- Privacy-focused
+- No tech skills needed
+- Instant & random generation
 
+</td>
+<td width="50%">
 
+### 🏎️ [Gari Chalao](https://github.com/arghya-online/garichalao)
+2D racing game simulation
+- Pure JavaScript physics
+- High-speed gameplay
+- Interactive controls
 
-
-<code>> High-speed 2D racing simulation.</code>
-
-
-
-
-
-<code>> Built with pure JS physics.</code>
-
-
-
-
-
-
-
-<a href="https://garichalao.vercel.app/">[ EXECUTE_LINK ]</a>
 </td>
 </tr>
 </table>
 
-<!-- Statistics (Minimal Theme) -->
+## 📊 GitHub Stats
 
-<h3>// SYSTEM_METRICS</h3>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Darghya-online%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3Dffffff%26text_color%3Dcccccc%26icon_color%3Dffffff" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Darghya-online%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3Dffffff%26text_color%3Dcccccc" height="150" alt="languages graph" />
+<div align="center">
 
-<!-- Footer / Contact -->
+<img src="https://github-readme-stats.vercel.app/api?username=arghya-online&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=3B82F6" height="170" alt="GitHub Stats" />
 
-<code>
---- END OF TRANSMISSION ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya-online&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" height="170" alt="Top Languages" />
 
+</div>
 
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arghya-online&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
+</div>
 
-<a href="https://linkedin.com/in/arghya-m">LINKEDIN</a> :: <a href="https://x.com/ArghyaOnline1">TWITTER/X</a>
-</code>
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/-@ArghyaOnline1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArghyaOnline1)
+[![LinkedIn](https://img.shields.io/badge/-Arghya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghya-m)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/arghya-online/arghya-portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=arghya-online&color=3B82F6&style=flat-square)
 
 </div>
