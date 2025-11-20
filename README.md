@@ -1,91 +1,137 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ARGHYA;FRONTEND+DEVELOPER;BUILDING+WEB+EXPERIENCES" alt="Typing SVG" />
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   █████╗ ██████╗  ██████╗ ██╗  ██╗██╗   ██╗ █████╗      ║
+║  ██╔══██╗██╔══██╗██╔════╝ ██║  ██║╚██╗ ██╔╝██╔══██╗     ║
+║  ███████║██████╔╝██║  ███╗███████║ ╚████╔╝ ███████║     ║
+║  ██╔══██║██╔══██╗██║   ██║██╔══██║  ╚██╔╝  ██╔══██║     ║
+║  ██║  ██║██║  ██║╚██████╔╝██║  ██║   ██║   ██║  ██║     ║
+║  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝     ║
+║                                                           ║
+║              FRONTEND DEVELOPER // INDIA                  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## ABOUT
+```
+> cat about.txt
+```
 
-Frontend Developer based in India, focused on creating interactive and functional web applications. Currently expanding into backend development to build full-stack solutions.
+Frontend Developer based in India. Building interactive web experiences with clean code and minimal design philosophy.
 
-**Current Focus:** Frontend Development, React.js, Interactive UIs
+Currently expanding into backend development.
 
-**Location:** India
+```
+> ls -la skills/
+```
 
-**Contact:** [@ArghyaOnline1](https://twitter.com/ArghyaOnline1)
+**LANGUAGES**
+```
+drwxr-xr-x  JavaScript
+drwxr-xr-x  HTML5
+drwxr-xr-x  CSS3
+drwxr-xr-x  C++
+```
 
----
-
-## TECH STACK
-
-**Languages**
-- JavaScript
-- HTML5
-- CSS3
-- C++
-
-**Frameworks & Libraries**
-- React.js
-- Node.js
-- Tailwind CSS
-
-**Tools & Platforms**
-- Git
-- Vercel
-- Appwrite
+**FRAMEWORKS**
+```
+drwxr-xr-x  React.js
+drwxr-xr-x  Node.js
+drwxr-xr-x  Tailwind CSS
+```
 
 ---
 
-## PROJECTS
+```
+> cat projects.log
+```
 
-### Hexus Capital
-Official website for Hexus Capital.co  
-[View Repository](https://github.com/arghya-online/Hexus-Capital)
+**[2025-11-14] GARI CHALAO**
+```
+High-speed 2D racing simulation built with pure JavaScript physics.
+Interactive controls and smooth gameplay mechanics.
+→ https://github.com/arghya-online/garichalao
+```
 
-### BlogWrite
-Blogging platform built with Appwrite and React  
-[View Repository](https://github.com/arghya-online/BlogWrite)
+**[2025-08-09] MYECOLOG**
+```
+Environmental tracking and carbon footprint management application.
+Built with React and modern web technologies.
+→ https://github.com/arghya-online/CarbonTracker
+```
 
-### YourVaultPass
-Secure password generator with privacy focus  
-[View Repository](https://github.com/arghya-online/YourVaultPass)
+**[2025-07-15] IEIIEMSTUDENT CHAPTER SITE**
+```
+Official website for IEIIEM Student Chapter.
+Professional design with responsive layout.
+→ https://github.com/arghya-online/eliptica
+```
 
-### Gari Chalao
-2D racing game with pure JavaScript physics  
-[View Repository](https://github.com/arghya-online/garichalao)
+**[2025-07-03] LIKHO**
+```
+Portfolio and blogging platform with modern interface.
+Content management and personal branding solution.
+→ https://github.com/arghya-online/portfolioblog
+```
 
-### SwiftTask
-AI-powered personal productivity assistant landing page  
-[View Repository](https://github.com/arghya-online/SwiftTask)
+**[2025-11-14] HEXUS CAPITAL**
+```
+Official website for Hexus Capital.co
+Corporate web presence with clean design.
+→ https://github.com/arghya-online/Hexus-Capital
+```
 
-### Portfolio
-Personal portfolio website built with React.js  
-[View Repository](https://github.com/arghya-online/arghya-portfolio)
+**[2025-08-09] BLOGWRITE**
+```
+Full-featured blogging platform powered by Appwrite and React.
+User authentication and rich content editor.
+→ https://github.com/arghya-online/BlogWrite
+```
 
 ---
 
-## STATS
+```
+> system_stats --display
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arghya-online&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=arghya-online&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya-online&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" height="165" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya-online&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00" height="150" />
 
 </div>
 
 ---
 
-## CONNECT
+```
+> cat contact.txt
+```
 
-[Twitter/X](https://twitter.com/ArghyaOnline1) | [LinkedIn](https://linkedin.com/in/arghya-m) | [Portfolio](https://github.com/arghya-online/arghya-portfolio)
+**CONNECT**
+```
+[TWITTER/X]  → https://twitter.com/ArghyaOnline1
+[LINKEDIN]   → https://linkedin.com/in/arghya-m
+[PORTFOLIO]  → https://github.com/arghya-online/arghya-portfolio
+```
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=arghya-online&color=grey&style=flat)
+```
+[SYSTEM ONLINE] // VISITORS: 
+```
+![](https://komarev.com/ghpvc/?username=arghya-online&color=green&style=flat)
+
+```
+EOF
+```
 
 </div>
