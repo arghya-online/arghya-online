@@ -1,8 +1,8 @@
 <div align="center">
 
-**Developer | India**
+### Arghya • Developer from India
 
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=google-chrome&logoColor=white)](https://arghyaweb.vercel.app/)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logoColor=white)](https://arghyaweb.vercel.app/)
 [![TWITTER](https://img.shields.io/badge/TWITTER-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/arghyabuilds)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghya-majumdar-46128726b/)
 
@@ -10,11 +10,11 @@
 
 ---
 
-## About me
+## About Me
 
 I am Arghya, a developer from Kolkata who enjoys building websites and applications that solve real problems. Coding for me is a mix of logic, patience, and small breakthroughs that make all the effort feel worth it.
 
-When I am not working on software, I enjoy building robots and exploring various hardware projects. I have built more than eight robots, won 2 hackathons, and completed several gigs. I hope that one day I can explain to my parents what coding actually is.
+When I am not working on software, I enjoy building robots and exploring various hardware projects. I have built more than eight robots, won two hackathons, and completed several gigs. I hope that one day I can explain to my parents what coding actually is.
 
 ---
 
@@ -53,54 +53,52 @@ When I am not working on software, I enjoy building robots and exploring various
 
 **arghya-portfolio**  
 https://github.com/arghya-online/arghya-portfolio  
-My personal portfolio website showcasing projects and skills. Built with React and modern web technologies featuring responsive design and a smooth user experience.
+A personal portfolio showcasing projects and skills with a clean, responsive interface.
 
 **Likho**  
 https://github.com/arghya-online/Likho  
-A platform to share midnight thoughts in your way. Modern blogging platform combining personal branding with content management. Features rich text editor and responsive design.
+A platform for sharing late-night thoughts with a smooth writing experience.
 
-**IEI IEM STUDENT CHAPTER SITE**  
+**IEI IEM Student Chapter Site**  
 https://github.com/arghya-online/iei_iem_site  
-Official website for the IEIIEM Student Chapter. Professional responsive design showcasing chapter activities, events, and member information with event calendar and news updates.
+A responsive website highlighting events, updates, and activities for the student chapter.
 
 **YourVaultPass**  
 https://github.com/arghya-online/YourVaultPass  
-Secure password management application. Keep your credentials safe and organized with encryption and user-friendly interface.
+A lightweight password manager that keeps credentials organised and secure.
 
 **CarbonTracker**  
 https://github.com/arghya-online/CarbonTracker  
-Environmental tracking and carbon footprint management application. Track daily activities, calculate carbon emissions, and receive personalized recommendations for reducing environmental impact.
+An app that helps track daily carbon impact and encourages mindful habits.
 
 **GariChalao**  
 https://github.com/arghya-online/garichalao  
-High-speed 2D racing simulation game built with vanilla JavaScript. Features custom physics engine, smooth controls, and interactive gameplay mechanics with realistic acceleration and collision detection.
+A small JavaScript-based racing game with smooth controls and simple physics.
 
 **ArghyaSocials**  
 https://github.com/arghya-online/ArghyaSocials  
-A repository to store all social links. Central hub for online presence and social media connections.
+A central place to keep and share all social links.
 
-### Learning Repositories (I practice coding here)
+---
+
+## Learning Repositories (I practice programming here)
 
 **Project1**  
 https://github.com/arghya-online/Project1  
-Experimental projects and proof-of-concepts. Testing new ideas and implementations.
 
 **React**  
 https://github.com/arghya-online/React  
-Personal repository for learning and practicing React.js. Contains practice projects, component experiments, hooks implementations, and state management examples.
 
-**Javascript**  
+**JavaScript**  
 https://github.com/arghya-online/Javascript  
-JavaScript practice repository. Deep diving into fundamentals and advanced concepts including ES6+, async/await, closures, and prototypes.
 
 **HTML-LEARN**  
 https://github.com/arghya-online/HTML-LEARN  
-HTML and CSS fundamentals practice. Building strong foundations in web development basics including responsive design and modern layout techniques.
 
 ---
 
 <div align="center">
 
-**arghya-online**
+Thanks for visiting
 
 </div>
