@@ -1,303 +1,144 @@
-<div align="center">
-
-# 👋 Hey there! I'm Arghya
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Cool+Stuff+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-
-[![Website](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/arghya-online/arghya-portfolio)
-[![Twitter](https://img.shields.io/badge/🐦_TWITTER-1DA1F2?style=for-the-badge&logoColor=white)](https://twitter.com/ArghyaOnline1)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/arghya-m)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🧑‍💻 About Me
-
-```javascript
-const arghya = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "HTML", "CSS", "C++"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vanilla JS"],
-            css: ["Tailwind", "CSS3"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"]
-        },
-        databases: ["MongoDB", "Appwrite"],
-        tools: ["Git", "Vercel", "VS Code"]
-    },
-    currentFocus: "Building full-stack applications",
-    funFact: "I debug with console.log() 🐛"
-};
+```ascii
+    ___                  __                
+   /   |  _________ _   / /_  __  ______ _
+  / /| | / ___/ __ `/  / __ \/ / / / __ `/
+ / ___ |/ /  / /_/ /  / / / / /_/ / /_/ / 
+/_/  |_/_/   \__, /  /_/ /_/\__, /\__,_/  
+            /____/         /____/          
 ```
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Developer | India**
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=google-chrome&logoColor=white)](https://github.com/arghya-online/arghya-portfolio)
+[![TWITTER](https://img.shields.io/badge/TWITTER-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ArghyaOnline1)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghya-m)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## About me
 
-<div align="center">
+Hello. I am Arghya Saha, a software engineering student and developer based in India. I enjoy learning new technologies and problem-solving by building web applications. I am currently expanding my knowledge in backend development to become a full-stack developer.
 
-### 💼 Professional Projects
+For the past few years, I have been working with modern web technologies including React, JavaScript, and CSS to create functional and interactive user interfaces. I focus on writing clean code and building projects that solve real problems.
 
-</div>
+**Education**
 
-<table>
-<tr>
-<td width="50%">
+Student at the National University of Case Rico (UAM)  
+Pursuing Computer Science Engineering  
+Class of 2026
 
-### 🎨 [Arghya Portfolio](https://github.com/arghya-online/arghya-portfolio)
-**My personal portfolio website**
+**Current Role**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-Modern portfolio showcasing my work with smooth animations and responsive design. Built to impress! ⭐
-
-🔗 [View Project](https://github.com/arghya-online/arghya-portfolio)
-
-</td>
-<td width="50%">
-
-### ✍️ [Likho](https://github.com/arghya-online/Likho)
-**Platform to share midnight thoughts**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-A blogging platform with rich text editor and elegant interface for creators to share their stories.
-
-🔗 [View Project](https://github.com/arghya-online/Likho)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 [IEI IEM Site](https://github.com/arghya-online/iei_iem_site)
-**Official Student Chapter Website**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-Professional website for IEIIEM Student Chapter with event calendar and member directory.
-
-🔗 [View Project](https://github.com/arghya-online/iei_iem_site)
-
-</td>
-<td width="50%">
-
-### 🔐 [YourVaultPass](https://github.com/arghya-online/YourVaultPass)
-**Secure Password Manager**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-Keep your passwords safe and organized with this secure vault application.
-
-🔗 [View Project](https://github.com/arghya-online/YourVaultPass)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌱 [CarbonTracker](https://github.com/arghya-online/CarbonTracker)
-**Environmental Impact Monitor**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Track your carbon footprint and get personalized recommendations for a greener lifestyle.
-
-🔗 [View Project](https://github.com/arghya-online/CarbonTracker)
-
-</td>
-<td width="50%">
-
-### 🏎️ [Gari Chalao](https://github.com/arghya-online/garichalao)
-**2D Racing Game**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-High-speed racing game with custom physics engine built in vanilla JavaScript!
-
-🔗 [View Project](https://github.com/arghya-online/garichalao)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### 🔗 [ArghyaSocials](https://github.com/arghya-online/ArghyaSocials)
-**Social Links Hub**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-Central hub for all my social media links and online presence.
-
-🔗 [View Project](https://github.com/arghya-online/ArghyaSocials)
-
-</td>
-</tr>
-</table>
+Open Source Contributor
 
 ---
 
-<div align="center">
+## Technologies
 
-### 📚 Learning Lab
+**Languages**
 
-*Where I experiment, break things, and learn from mistakes* 🧪
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-</div>
+**Frameworks & Libraries**
 
-<table>
-<tr>
-<td width="50%">
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![NTC](https://img.shields.io/badge/NTC-000000?style=flat&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### ⚛️ [React](https://github.com/arghya-online/React)
-**React.js Practice Ground**
+**Tools & Platforms**
 
-Experimenting with hooks, components, state management, and React patterns.
-
-`Hooks` `Components` `Context API` `Router`
-
-🔗 [View Repo](https://github.com/arghya-online/React)
-
-</td>
-<td width="50%">
-
-### 🔧 [Project1](https://github.com/arghya-online/Project1)
-**Experimental Projects**
-
-Testing new ideas and building proof-of-concepts.
-
-`Experiments` `POCs` `Testing`
-
-🔗 [View Repo](https://github.com/arghya-online/Project1)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📜 [Javascript](https://github.com/arghya-online/Javascript)
-**JavaScript Mastery**
-
-Deep diving into JavaScript fundamentals and advanced concepts.
-
-`ES6+` `Async/Await` `Closures` `Prototypes`
-
-🔗 [View Repo](https://github.com/arghya-online/Javascript)
-
-</td>
-<td width="50%">
-
-### 🎨 [HTML-LEARN](https://github.com/arghya-online/HTML-LEARN)
-**HTML & CSS Fundamentals**
-
-Building strong foundations in web development basics.
-
-`HTML5` `CSS3` `Responsive Design` `Flexbox`
-
-🔗 [View Repo](https://github.com/arghya-online/HTML-LEARN)
-
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arghya-online&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arghya-online&theme=tokyonight&hide_border=true&background=0D1117&stroke=A9FEF7&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghya-online&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&hide_title=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya-online&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arghya-online&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## Projects
 
-```diff
-+ 🔨 Building full-stack applications with React & Node.js
-+ 🌱 Learning backend development and databases
-+ 💡 Contributing to open-source projects
-+ 🎨 Improving UI/UX design skills
-+ 📝 Writing technical blogs and documentation
-```
+### Professional Work
+
+**arghya-portfolio**  
+https://github.com/arghya-online/arghya-portfolio  
+My personal portfolio website showcasing projects and skills. Built with React and modern web technologies featuring responsive design and smooth user experience.
+
+**Likho**  
+https://github.com/arghya-online/Likho  
+A platform to share midnight thoughts in your way. Modern blogging platform combining personal branding with content management. Features rich text editor and responsive design.
+
+**iei_iem_site**  
+https://github.com/arghya-online/iei_iem_site  
+Official website for the IEIIEM Student Chapter. Professional responsive design showcasing chapter activities, events, and member information with event calendar and news updates.
+
+**YourVaultPass**  
+https://github.com/arghya-online/YourVaultPass  
+Secure password management application. Keep your credentials safe and organized with encryption and user-friendly interface.
+
+**CarbonTracker**  
+https://github.com/arghya-online/CarbonTracker  
+Environmental tracking and carbon footprint management application. Track daily activities, calculate carbon emissions, and receive personalized recommendations for reducing environmental impact.
+
+**garichalao**  
+https://github.com/arghya-online/garichalao  
+High-speed 2D racing simulation game built with vanilla JavaScript. Features custom physics engine, smooth controls, and interactive gameplay mechanics with realistic acceleration and collision detection.
+
+**ArghyaSocials**  
+https://github.com/arghya-online/ArghyaSocials  
+A repository to store all social links. Central hub for online presence and social media connections.
+
+### Learning Repositories
+
+**Project1**  
+https://github.com/arghya-online/Project1  
+Experimental projects and proof-of-concepts. Testing new ideas and implementations.
+
+**React**  
+https://github.com/arghya-online/React  
+Personal repository for learning and practicing React.js. Contains practice projects, component experiments, hooks implementations, and state management examples.
+
+**Javascript**  
+https://github.com/arghya-online/Javascript  
+JavaScript practice repository. Deep diving into fundamentals and advanced concepts including ES6+, async/await, closures, and prototypes.
+
+**HTML-LEARN**  
+https://github.com/arghya-online/HTML-LEARN  
+HTML and CSS fundamentals practice. Building strong foundations in web development basics including responsive design and modern layout techniques.
 
 ---
-
-## 🏆 Achievements
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=arghya-online&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Profile Views](https://komarev.com/ghpvc/?username=arghya-online&color=58a6ff&style=flat)
 
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-*Always open to interesting conversations and collaboration opportunities*
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArghyaOnline1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghya-m)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/arghya-online/arghya-portfolio)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=arghya-online&label=Profile%20Views&color=A9FEF7&style=for-the-badge" alt="Profile Views" />
-
-### ⭐ From [arghya-online](https://github.com/arghya-online)
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+**arghya-online**
 
 </div>
