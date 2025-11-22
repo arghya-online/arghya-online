@@ -47,31 +47,19 @@ When I am not working on software, I enjoy building robots and exploring various
 
 ---
 
-## Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arghya-online&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arghya-online&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## Projects
 
 ### Professional Work
 
 **arghya-portfolio**  
 https://github.com/arghya-online/arghya-portfolio  
-My personal portfolio website showcasing projects and skills. Built with React and modern web technologies featuring responsive design and smooth user experience.
+My personal portfolio website showcasing projects and skills. Built with React and modern web technologies featuring responsive design and a smooth user experience.
 
 **Likho**  
 https://github.com/arghya-online/Likho  
 A platform to share midnight thoughts in your way. Modern blogging platform combining personal branding with content management. Features rich text editor and responsive design.
 
-**iei_iem_site**  
+**IEI IEM STUDENT CHAPTER SITE**  
 https://github.com/arghya-online/iei_iem_site  
 Official website for the IEIIEM Student Chapter. Professional responsive design showcasing chapter activities, events, and member information with event calendar and news updates.
 
@@ -83,7 +71,7 @@ Secure password management application. Keep your credentials safe and organized
 https://github.com/arghya-online/CarbonTracker  
 Environmental tracking and carbon footprint management application. Track daily activities, calculate carbon emissions, and receive personalized recommendations for reducing environmental impact.
 
-**garichalao**  
+**GariChalao**  
 https://github.com/arghya-online/garichalao  
 High-speed 2D racing simulation game built with vanilla JavaScript. Features custom physics engine, smooth controls, and interactive gameplay mechanics with realistic acceleration and collision detection.
 
@@ -91,7 +79,7 @@ High-speed 2D racing simulation game built with vanilla JavaScript. Features cus
 https://github.com/arghya-online/ArghyaSocials  
 A repository to store all social links. Central hub for online presence and social media connections.
 
-### Learning Repositories
+### Learning Repositories (I practice coding here)
 
 **Project1**  
 https://github.com/arghya-online/Project1  
