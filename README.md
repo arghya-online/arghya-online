@@ -2,9 +2,9 @@
 
 **Developer | India**
 
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=google-chrome&logoColor=white)](https://github.com/arghya-online/arghya-portfolio)
-[![TWITTER](https://img.shields.io/badge/TWITTER-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ArghyaOnline1)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arghya-m)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=google-chrome&logoColor=white)](https://arghyaweb.vercel.app/)
+[![TWITTER](https://img.shields.io/badge/TWITTER-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/arghyabuilds)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghya-majumdar-46128726b/)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 I am Arghya, a developer from Kolkata who enjoys building websites and applications that solve real problems. Coding for me is a mix of logic, patience, and small breakthroughs that make all the effort feel worth it.
 
-When I am not working on software, I like making robots and exploring hardware projects. I have built more than eight robots, won a few hackathons, and completed several gigs. I still hope that one day I will be able to explain to my parents what coding actually is.
+When I am not working on software, I enjoy building robots and exploring various hardware projects. I have built more than eight robots, won 2 hackathons, and completed several gigs. I hope that one day I can explain to my parents what coding actually is.
 
 ---
 
@@ -22,12 +22,10 @@ When I am not working on software, I like making robots and exploring hardware p
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
 
 **Frameworks & Libraries**
 
@@ -35,14 +33,17 @@ When I am not working on software, I like making robots and exploring hardware p
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
