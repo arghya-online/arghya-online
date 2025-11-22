@@ -1,12 +1,3 @@
-```ascii
-    ___                  __                
-   /   |  _________ _   / /_  __  ______ _
-  / /| | / ___/ __ `/  / __ \/ / / / __ `/
- / ___ |/ /  / /_/ /  / / / / /_/ / /_/ / 
-/_/  |_/_/   \__, /  /_/ /_/\__, /\__,_/  
-            /____/         /____/          
-```
-
 <div align="center">
 
 **Developer | India**
@@ -21,19 +12,9 @@
 
 ## About me
 
-Hello. I am Arghya Saha, a software engineering student and developer based in India. I enjoy learning new technologies and problem-solving by building web applications. I am currently expanding my knowledge in backend development to become a full-stack developer.
+I am Arghya, a developer from Kolkata who enjoys building websites and applications that solve real problems. Coding for me is a mix of logic, patience, and small breakthroughs that make all the effort feel worth it.
 
-For the past few years, I have been working with modern web technologies including React, JavaScript, and CSS to create functional and interactive user interfaces. I focus on writing clean code and building projects that solve real problems.
-
-**Education**
-
-Student at the National University of Case Rico (UAM)  
-Pursuing Computer Science Engineering  
-Class of 2026
-
-**Current Role**
-
-Open Source Contributor
+When I am not working on software, I like making robots and exploring hardware projects. I have built more than eight robots, won a few hackathons, and completed several gigs. I still hope that one day I will be able to explain to my parents what coding actually is.
 
 ---
 
@@ -41,15 +22,12 @@ Open Source Contributor
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 
 **Frameworks & Libraries**
 
@@ -57,8 +35,6 @@ Open Source Contributor
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![NTC](https://img.shields.io/badge/NTC-000000?style=flat&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **Tools & Platforms**
 
@@ -67,7 +43,6 @@ Open Source Contributor
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -136,8 +111,6 @@ HTML and CSS fundamentals practice. Building strong foundations in web developme
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=arghya-online&color=58a6ff&style=flat)
 
 **arghya-online**
 
