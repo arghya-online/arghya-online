@@ -2,7 +2,7 @@
 
 ### Arghya • Developer from India
 
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logoColor=white)](https://arghyaweb.vercel.app/)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logoColor=white)](arghyalogs.in/portfolio)
 [![TWITTER](https://img.shields.io/badge/TWITTER-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/arghyabuilds)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghya-majumdar-46128726b/)
 
