@@ -57,7 +57,7 @@ https://arghyalos.in
 A personal portfolio showcasing projects and skills with a clean, responsive interface.
 
 **ApkaJob**
-apkajob.arghyalogs.in
+https://apkajob.arghyalogs.in
 A site to find and post about jobs and freelancing gigs, built using React, Clerk, Supabase
 
 **Likho**  
