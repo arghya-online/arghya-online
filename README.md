@@ -12,9 +12,10 @@
 
 ## About Me
 
-I am Arghya, a developer from Kolkata who enjoys building websites and applications that solve real problems. Coding for me is a mix of logic, patience, and small breakthroughs that make all the effort feel worth it.
-
-When I am not working on software, I enjoy building robots and exploring various hardware projects. I have built more than eight robots, won two hackathons, and completed several gigs. I hope that one day I can explain to my parents what coding actually is.
+I'm Arghya, from Kolkata.
+I build websites and apps. That's mostly what I do all day. Just trying to make things that actually work and are useful.
+I usually work with React, Node.js, and whatever database fits. I try to keep things simple and clean. Nothing too fancy. Coding isn't always fun. Most of the time, it's just fixing small bugs again and again. But when it finally works, that feeling is different. Outside of that, I sometimes build robots. I also do a bit of CAD modelling and 3D printing, mostly just as a hobby, trying things out and seeing what works. Also started making some YouTube videos, nothing serious, just sharing stuff I learn.
+Still figuring things out...
 
 ---
 
